@@ -4,7 +4,7 @@
 **Section**: S18 
 **Group Members**:  
 - Briones, Julian Johan, V.  
-- Name 2  
+- Rivera, Paolo Eugene, M.
 - Name 3  
 - Name 4  
 - Name 5  
@@ -21,34 +21,34 @@ This build uses **PCPartPicker System Builder** for compatibility check.
 PCPartPicker Permalink: https://pcpartpicker.com/list/W3c2PJ
 
 ### Summary Table 
-| Component       | Model | Price (USD/Php) | Notes |
-|-----------------|-------|-----------------|-------|
-| CPU             | ...   | ...             | ...   |
-| CPU Cooler      | ...   | ...             | ...   |
-| Motherboard     | ...   | ...             | ...   |
-| RAM             | ...   | ...             | ...   |
-| Storage 1       | ...   | ...             | ...   |
-| Storage 2       | ...   | ...             | ...   |
-| Graphics Card   | ...   | ...             | ...   |
-| Power Supply    | ...   | ...             | ...   |
-| Case            | ...   | ...             | ...   |
-| Case Fans       | ...   | ...             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+| Component       |                                 Model                                          | Price (USD/Php)     |                       Notes                              |
+|-----------------|--------------------------------------------------------------------------------|---------------------|----------------------------------------------------------|
+| CPU             | AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor                                     | 128.07USD/9943PHP   | Unlocked for overclocking, AM4 w/ 12 threads & 6 cores   |
+| CPU Cooler      | ID Cooling FX360 INF ARGB 360mm Water Cooler                                   | 71.98USD/4185PHP    | Compatible with AM4 sockets                              |
+| Motherboard     | MSI PRO B550M-VC WIFI Micro ATX AM4 Motherboard                                | 109.99USD/6,395PHP  | AM4 motherboard with mATX form factor                    |
+| RAM             | TEAMGROUP T-Force Vulcan TUF Gaming Alliance 32 GB DDR4-3600 CL19 Memory       | 120.32USD/6999PHP   | DDR4 Ram, 2x16GB                                         |
+| Storage 1       | Samsung 990 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive               | 379.99USD/5232.65PHP| 1TB SSD that requires an NVME M.2 Slot                   |
+| Storage 2       | ...                                                                            | ...                 | ...                                                      |
+| Graphics Card   | Sapphire PULSE Radeon RX 9060 XT 16 GB Video Card                              | 434.94USD/22095PHP  | 16GB VRAM that requires a PCIE x16 slot                  |
+| Power Supply    | Gigabyte P650G 650 W 80+ Gold Certified ATX Power Supply                       | 116.44USD/6770PHP   | 650W 80+ Gold                                            |
+| Case            | Montech AIR 903 MAX ATX Mid Tower Case                                         | 75.98USD/4418PHP    | Supports mATX motherboards and ATX PSUs                  |
+| Case Fans       | Included                                                                       | ...                 | ...                                                      |
+| **Total**       |                                                                                | 1015.37USD/59040PHP | ...                                                      |
 
 ---
 
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: _________  
+Google spreadsheet link: https://docs.google.com/spreadsheets/d/1m75P71RFW0pBwHmi1IM-7pTGvPTZNPJNKwkNHF1LZog/edit?usp=sharing 
 
 ### Local Build Table
-| Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
-|-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                  |
-| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
-| RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported              |
+| Component       |             Model          |                                         Vendor & Link                                       | Price (Php) | Compatibility Notes                  |
+|-----------------|----------------------------|---------------------------------------------------------------------------------------------|-------------|--------------------------------------|
+| CPU             | AMD Ryzen™ 5 5600X         | [PC Express](https://pcx.com.ph/products/amd-ryzen-5-5600x-3-7ghz-processor)                | ...         | Socket LGA1700 compatible with B760M |
+| CPU Cooler      | ID Cooling FX360 INF ARGB  | [dynaquestpc](https://dynaquestpc.com/products/id-cooling-fx360-inf-argb-360mm-water-cooler)| ...         | Fits case clearance                  |
+| Motherboard     | MSI PRO B550M-VC WIFI      | [PC Express](https://pcx.com.ph/products/msi-b550m-a-pro-micro-atx-motherboard?)            | ...         | Supports DDR5 RAM                   |
+| RAM             | Team Group VULCAN TUF 32GB | [Villman](https://villman.com/Product-Detail/team-group_vulcan-tuf-32gb-2x16gb-3600mhz-gaming-alliance-ddr4-gaming-memory)| ...         | DDR5-5200 CL40,         2x8GB                |
+| Storage 1 (SSD) | ...                        | [PC Express](link) | ...         | NVMe M.2 slot supported              |
 | Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
 | GPU             | ...   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
 | PSU             | ...   | [PVillMan](link)   | ...         | 650W, 80+ Bronze                     |
