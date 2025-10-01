@@ -12,8 +12,7 @@
 ---
 
 ## 1. Introduction
-Briefly describe your project build (1–2 paragraphs).  
-Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
+This AMD based rig was made with the intention to perform well within a ₱60,000 (±5%) budget. Moreover, the main objective of this build is to deliver reliable performance in modern AAA games, specifically targeting 1080p resolution at 60+ FPS. This build hopes to achieve a practical balance between affordability and capability, whilst also ensuring that it can deliver a smooth and enjoyable gaming experience while remaining adaptable to future needs.
 
 ---
 
