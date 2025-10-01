@@ -19,7 +19,7 @@ Mention: target use case (e.g., general-purpose desktop, gaming, programming, da
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: _________
+PCPartPicker Permalink: https://pcpartpicker.com/list/W3c2PJ
 
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
