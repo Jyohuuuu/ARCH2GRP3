@@ -23,17 +23,17 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/W3c2PJ
 ### Summary Table 
 | Component       |                                 Model                                          | Price (USD/Php)     |                       Notes                              |
 |-----------------|--------------------------------------------------------------------------------|---------------------|----------------------------------------------------------|
-| CPU             | AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor                                     | 128.07USD/9943PHP   | Unlocked for overclocking, AM4 w/ 12 threads & 6 cores   |
-| CPU Cooler      | ID Cooling FX360 INF ARGB 360mm Water Cooler                                   | 71.98USD/4185PHP    | Compatible with AM4 sockets                              |
-| Motherboard     | MSI PRO B550M-VC WIFI Micro ATX AM4 Motherboard                                | 109.99USD/6,395PHP  | AM4 motherboard with mATX form factor                    |
-| RAM             | TEAMGROUP T-Force Vulcan TUF Gaming Alliance 32 GB DDR4-3600 CL19 Memory       | 120.32USD/6999PHP   | DDR4 Ram, 2x16GB                                         |
-| Storage 1       | Samsung 990 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive               | 379.99USD/5232.65PHP| 1TB SSD that requires an NVME M.2 Slot                   |
+| CPU             | AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor                                     | 171.00USD/9939.03PHP   | Unlocked for overclocking, AM4 w/ 12 threads & 6 cores   |
+| CPU Cooler      | ID Cooling FX360 INF ARGB 360mm Water Cooler                                   | 79.98USD/4648.76PHP    | Compatible with AM4 sockets                              |
+| Motherboard     | MSI PRO B550M-VC WIFI Micro ATX AM4 Motherboard                                | 119.99USD/6974.30PHP  | AM4 motherboard with mATX form factor                    |
+| RAM             | TEAMGROUP T-Force Vulcan TUF Gaming Alliance 32 GB DDR4-3600 CL19 Memory       | 120.32USD/6995.34PHP   | DDR4 Ram, 2x16GB                                         |
+| Storage 1       | Samsung 990 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive               | 89.99USD/5230.49PHP| 1TB SSD that requires an NVME M.2 Slot                   |
 | Storage 2       | ...                                                                            | ...                 | ...                                                      |
-| Graphics Card   | Sapphire PULSE Radeon RX 9060 XT 16 GB Video Card                              | 434.94USD/22095PHP  | 16GB VRAM that requires a PCIE x16 slot                  |
-| Power Supply    | Gigabyte P650G 650 W 80+ Gold Certified ATX Power Supply                       | 116.44USD/6770PHP   | 650W 80+ Gold                                            |
-| Case            | Montech AIR 903 MAX ATX Mid Tower Case                                         | 75.98USD/4418PHP    | Supports mATX motherboards and ATX PSUs                  |
+| Graphics Card   | Sapphire PULSE Radeon RX 9060 XT 16 GB Video Card                              | 379.99USD/22086.16PHP  | 16GB VRAM that requires a PCIE x16 slot                  |
+| Power Supply    | Gigabyte P650G 650 W 80+ Gold Certified ATX Power Supply                       | 116.56USD/6774.82PHP   | 650W 80+ Gold                                            |
+| Case            | Montech AIR 903 MAX ATX Mid Tower Case                                         | 75.98USD/4416.34PHP    | Supports mATX motherboards and ATX PSUs                  |
 | Case Fans       | Included                                                                       | ...                 | ...                                                      |
-| **Total**       |                                                                                | 1015.37USD/59040PHP | ...                                                      |
+| **Total**       |                                                                                | 1033.49USD/60,069.54PHP | ...                                                      |
 
 ---
 
