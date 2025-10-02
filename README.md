@@ -31,9 +31,9 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/yscZpK
 | Storage 2       | ...                                                                            | ...                 | ...                                                      |
 | Graphics Card   | Sapphire PULSE Radeon RX 9060 XT 16 GB Video Card                              | 379.99 USD / 22,086.16 Php  | 16GB VRAM that requires a PCIE x16 slot                  |
 | Power Supply    | Gigabyte P650G 650 W 80+ Gold Certified ATX Power Supply                       | 116.56 USD / 6,774.82 Php   | 650W 80+ Gold                                            |
-| Case            | Montech AIR 903 MAX ATX Mid Tower Case                                         | 75.98 USD / 4,416.34 Php    | Supports mATX motherboards and ATX PSUs                  |
+| Case            | Montech AIR 903 MAX ATX Mid Tower Case                                         | 75.97 USD / 4,416.34 Php    | Supports mATX motherboards and ATX PSUs                  |
 | Case Fans       | Included with Case                                                             | ...                 | ...                                                      |
-| **Total**       |                                                                                | 1,018.16 USD / 59,173.49 Php | ...                                                      |
+| **Total**       |                                                                                | 1,138.47 USD / 59,173.49 Php | ...                                                      |
 
 ---
 
