@@ -61,9 +61,14 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1m75P71RFW0pBwHm
 ## 4. Compatibility Justification
 For each part, explain compatibility and choices.  
 Example:  
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.  
+- **CPU + Motherboard**: AMD Ryzen 5 5600X  is compatible with MSI B550M board (AM4 Socket, BIOS compatible).  Having the ability to overclock, combined with a strong 16 cores and 32 threads, the Ryzen 5 5600X is one of the best mid-range CPUs for gaming. It will be paired with the MSI B550M wifi. This mATX board is a strong budget option for entry-mid level PCs.
+- **CPU Cooler**: This build features a water cooler that is able to fit within the case. The cooler is compatibile with AM4 slots and will be able to keep the CPU sufficiently cool, even if it is overclocking.
+- **RAM**: DDR4 RAM is supported by the motherboard (maximum RAM is 128GB). This build has 32GB of RAM, which is a good amount for most heavy tasks such as gaming and video editing.
+- **Storage**: This build boasts 1TB of storage, via a Samsung 990 Pro NVME M.2 SSD, which is supported by the motherboard.
+- **GPU**: This build features an AMD Radeon RX 9060 XT. This GPU is a great choice for a budget GPU. With 16GB of VRAM and support for DirectX 12 Ultimate, this GPU is a solid option for most, if not all games currently available. It is especially good at running these tasks on 1080/1440p.
+- **PSU**: With 650W, the GIGABYTE 650W GP-P650G 80+ Gold is a high quality PSU that will be more than enough to power this PC, and even accomodate future upgrades that may require more power.
+- **Case**: The case used by the build has an E-ATX form factor which supports both the PSU's ATX form factor and the motherboards mATX form factor. It is also large enough to fit the GPU and the CPU cooler.
+
 
 ---
 
