@@ -44,17 +44,17 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1m75P71RFW0pBwHm
 ### Local Build Table
 | Component       |             Model          |                                         Vendor & Link                                       | Price (Php) | Compatibility Notes                  |
 |-----------------|----------------------------|---------------------------------------------------------------------------------------------|-------------|--------------------------------------|
-| CPU             | AMD Ryzen™ 5 5600X         | [PC Express](https://pcx.com.ph/products/amd-ryzen-5-5600x-3-7ghz-processor)                | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ID Cooling FX360 INF ARGB  | [dynaquestpc](https://dynaquestpc.com/products/id-cooling-fx360-inf-argb-360mm-water-cooler)| ...         | Fits case clearance                  |
-| Motherboard     | MSI PRO B550M-VC WIFI      | [PC Express](https://pcx.com.ph/products/msi-b550m-a-pro-micro-atx-motherboard?)            | ...         | Supports DDR5 RAM                   |
-| RAM             | Team Group VULCAN TUF 32GB | [Villman](https://villman.com/Product-Detail/team-group_vulcan-tuf-32gb-2x16gb-3600mhz-gaming-alliance-ddr4-gaming-memory)| ...         | DDR5-5200 CL40,         2x8GB                |
-| Storage 1 (SSD) | SAMSUNG 1TB 990 PRO NVME M.2 Solid State Drive | [PC Express](https://pcx.com.ph/products/samsung-1tb-990-pro-nvme-m-2-solid-state-drive?_pos=1&_sid=02b347aca&_ss=r) | ...         | NVMe M.2 slot supported              |
+| CPU             | AMD Ryzen™ 5 5600X         | [PC Express](https://pcx.com.ph/products/amd-ryzen-5-5600x-3-7ghz-processor)                | 7450PHP     | AM4 Socket compatible with the B550M-VC |
+| CPU Cooler      | ID Cooling FX360 INF ARGB  | [dynaquestpc](https://dynaquestpc.com/products/id-cooling-fx360-inf-argb-360mm-water-cooler)| 3790PHP     | Compatible with AM4 cpu sockets         |
+| Motherboard     | MSI PRO B550M-VC WIFI      | [PC Express](https://pcx.com.ph/products/msi-b550m-a-pro-micro-atx-motherboard?)            | 4600PHP     | Supports DDR4 RAM, matches form factor of case                  |
+| RAM             | Team Group VULCAN TUF 32GB | [Villman](https://villman.com/Product-Detail/team-group_vulcan-tuf-32gb-2x16gb-3600mhz-gaming-alliance-ddr4-gaming-memory)| 6999PHP   | DDR4 32 GB (2x16GB)                |
+| Storage 1 (SSD) | SAMSUNG 1TB 990 PRO NVME M.2 Solid State Drive | [PC Express](https://pcx.com.ph/products/samsung-1tb-990-pro-nvme-m-2-solid-state-drive?_pos=1&_sid=02b347aca&_ss=r) | 5550PHP         | NVMe M.2 slot supported by motherboard            |
 | Storage 2 (HDD) | ...   | ...   | ...         |                   |
-| GPU             | SAPPHIRE AMD Radeon™ RX 9060 XT PULSE GAMING OC 16GB GDDR6 128-bit Graphics Card   | [PC Express](https://pcx.com.ph/products/sapphire-amd-radeon-rx-9060-xt-pulse-gaming-oc-16gb-gddr6-128-bit-graphics-card?_pos=1&_sid=320bf0059&_ss=r&_fid=9fe96a7b9)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
-| PSU             | GIGABYTE 650W GP-P650G 80+ Gold Power Supply   | [PC Express](https://pcx.com.ph/products/gigabyte-650w-gp-p650g-80-gold-power-supply?_pos=1&_sid=ec9711472&_ss=r)   | ...         | 650W, 80+ Bronze                     |
-| Case            | MONTECH AIR 903 MAX E-ATX W/4 PWM FANS PC CASE (Black)   | [VillMan](https://villman.com/Product-Detail/montech-_air-903-max-)    | ...         | ATX Mid-Tower                        |
+| GPU             | SAPPHIRE AMD Radeon™ RX 9060 XT PULSE GAMING OC 16GB GDDR6 128-bit Graphics Card   | [PC Express](https://pcx.com.ph/products/sapphire-amd-radeon-rx-9060-xt-pulse-gaming-oc-16gb-gddr6-128-bit-graphics-card?_pos=1&_sid=320bf0059&_ss=r&_fid=9fe96a7b9)    | 25300PHP         | PCIe x16 socket compatible with motherboard  |
+| PSU             | GIGABYTE 650W GP-P650G 80+ Gold Power Supply   | [PC Express](https://pcx.com.ph/products/gigabyte-650w-gp-p650g-80-gold-power-supply?_pos=1&_sid=ec9711472&_ss=r)   | 3500PHP         | 650W, 80+ Gold compatible with PSU slot of case                     |
+| Case            | MONTECH AIR 903 MAX E-ATX W/4 PWM FANS PC CASE (Black)   | [VillMan](https://villman.com/Product-Detail/montech-_air-903-max-)    | 4299PHP         | E-ATX Mid-Tower                        |
 | Case Fans       | Included   | [VillMan](https://villman.com/Product-Detail/montech-_air-903-max-)    | ...         | ...                        |
-| **Total**       |       |                    | **XXX Php** | Within budget                        |
+| **Total**       |       |                    | **61488 Php** | Within budget                        |
 
 ---
 
