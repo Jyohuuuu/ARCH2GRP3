@@ -87,8 +87,10 @@ Example:
 
 ## 6. Conclusion & Learnings
 Reflections on:  
-- Price differences (international vs. Manila vendors)  
-- Challenges in finding stock or cheaper equivalents  
+- Price differences (international vs. Manila vendors)
+  - International prices were higher than local prices for most components. Only the SSD and Graphics Card were more expensive locally than international prices, being ₱319.5 and ₱3,213.84 more expensive respectfully. So for the most part, local vendors offered cheaper prices, especially for major parts like the CPU, motherboard, and PSU costing at least ₱2000 less. This price advantage allowed us to build a more powerful system while still staying within our ₱60,000 budget.  
+- Challenges in finding stock or cheaper equivalents
+  - There weren't any major challenges in sourcing the parts since all components were readily available from well-known local PC vendors such as PC Express, DynaQuest, and VillMan. The parts were easy to search for, and listings were updated. This convenience made the building process smoother and faster, allowing us to focus more on optimization and budget balance rather than availability issues.
 - What the group learned about PC components and system design  
 
 ---
