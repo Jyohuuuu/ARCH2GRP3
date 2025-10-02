@@ -73,10 +73,15 @@ Example:
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
+- **Budget Limit**: ₱60,000 (+-5%)  
+- **Final Total**: 61488,000  
+- ✅ Within budget
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+ - **No HDD** - The build has no hard disk drive. While this trades off some extra storage, 1TB should be enough for most purposes. Furthermore, the costs that would've went to buying an HDD was able to be dedicated for better performing parts such as the GPU.
+
+ - **Higher Power PSU** - The build's PSU is much stronger than it has to be, and as a result is much more expensive. This is a worthy tradeoff because, while the extra money required for this PSU can be felt in other areas of the build, future upgrades will require a stronger wattage first and foremost. 
+
+ - **Motherboard restricted to DDR4** - The build's motherboard is AM4, and thus does not support DDR5 RAM. While this adds another hurdle for upgrading the RAM of the build, keeping the motherboard on AM4 gives it access to powerful budget options such as the 5600X. This is a worthy tradeoff as this CPU and motherboard are more than enough for entry or even mid level gaming.
 
 ---
 
