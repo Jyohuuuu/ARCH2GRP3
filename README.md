@@ -26,14 +26,14 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/yscZpK
 | CPU             | AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor                                     | 171.00USD/9939.03PHP   | Unlocked for overclocking, AM4 w/ 12 threads & 6 cores   |
 | CPU Cooler      | ID Cooling FX360 INF ARGB 360mm Water Cooler                                   | 79.98USD/4648.76PHP    | Compatible with AM4 sockets                              |
 | Motherboard     | MSI PRO B550M-VC WIFI Micro ATX AM4 Motherboard                                | 119.99USD/6974.30PHP  | AM4 motherboard with mATX form factor                    |
-| RAM             | TEAMGROUP T-Force Vulcan TUF Gaming Alliance 32 GB DDR4-3600 CL19 Memory       | 120.32USD/6995.34PHP   | DDR4 Ram, 2x16GB                                         |
+| RAM             | G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory                      | 104.99USD/6,099.29PHP   | DDR4 Ram, 2x16GB                                         |
 | Storage 1       | Samsung 990 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive               | 89.99USD/5230.49PHP| 1TB SSD that requires an NVME M.2 Slot                   |
 | Storage 2       | ...                                                                            | ...                 | ...                                                      |
 | Graphics Card   | Sapphire PULSE Radeon RX 9060 XT 16 GB Video Card                              | 379.99USD/22086.16PHP  | 16GB VRAM that requires a PCIE x16 slot                  |
 | Power Supply    | Gigabyte P650G 650 W 80+ Gold Certified ATX Power Supply                       | 116.56USD/6774.82PHP   | 650W 80+ Gold                                            |
 | Case            | Montech AIR 903 MAX ATX Mid Tower Case                                         | 75.98USD/4416.34PHP    | Supports mATX motherboards and ATX PSUs                  |
 | Case Fans       | Included                                                                       | ...                 | ...                                                      |
-| **Total**       |                                                                                | 1033.49USD/60,069.54PHP | ...                                                      |
+| **Total**       |                                                                                | 1,018.16USD/59,173.49PHP | ...                                                      |
 
 ---
 
@@ -47,14 +47,14 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1m75P71RFW0pBwHm
 | CPU             | AMD Ryzen™ 5 5600X         | [PC Express](https://pcx.com.ph/products/amd-ryzen-5-5600x-3-7ghz-processor)                | 7450PHP     | AM4 Socket compatible with the B550M-VC |
 | CPU Cooler      | ID Cooling FX360 INF ARGB  | [dynaquestpc](https://dynaquestpc.com/products/id-cooling-fx360-inf-argb-360mm-water-cooler)| 3790PHP     | Compatible with AM4 cpu sockets         |
 | Motherboard     | MSI PRO B550M-VC WIFI      | [PC Express](https://pcx.com.ph/products/msi-b550m-a-pro-micro-atx-motherboard?)            | 4600PHP     | Supports DDR4 RAM, matches form factor of case                  |
-| RAM             | Team Group VULCAN TUF 32GB | [Villman](https://villman.com/Product-Detail/team-group_vulcan-tuf-32gb-2x16gb-3600mhz-gaming-alliance-ddr4-gaming-memory)| 6999PHP   | DDR4 32 GB (2x16GB)                |
+| RAM             |G.Skill Ripjaws V 32GB Dual DDR4 3600MHz CL18 F4-3600C18D-32GVK | [dynaquestpc](https://dynaquestpc.com/collections/memory/products/gskill-ripjaws-v-32gb-2x16gb-ddr4-3600-f4-3600c18d-32gvk)| 4,995.00PHP   | DDR4 32 GB (2x16GB)                |
 | Storage 1 (SSD) | SAMSUNG 1TB 990 PRO NVME M.2 Solid State Drive | [PC Express](https://pcx.com.ph/products/samsung-1tb-990-pro-nvme-m-2-solid-state-drive?_pos=1&_sid=02b347aca&_ss=r) | 5550PHP         | NVMe M.2 slot supported by motherboard            |
 | Storage 2 (HDD) | ...   | ...   | ...         |                   |
 | GPU             | SAPPHIRE AMD Radeon™ RX 9060 XT PULSE GAMING OC 16GB GDDR6 128-bit Graphics Card   | [PC Express](https://pcx.com.ph/products/sapphire-amd-radeon-rx-9060-xt-pulse-gaming-oc-16gb-gddr6-128-bit-graphics-card?_pos=1&_sid=320bf0059&_ss=r&_fid=9fe96a7b9)    | 25300PHP         | PCIe x16 socket compatible with motherboard  |
 | PSU             | GIGABYTE 650W GP-P650G 80+ Gold Power Supply   | [PC Express](https://pcx.com.ph/products/gigabyte-650w-gp-p650g-80-gold-power-supply?_pos=1&_sid=ec9711472&_ss=r)   | 3500PHP         | 650W, 80+ Gold compatible with PSU slot of case                     |
 | Case            | MONTECH AIR 903 MAX E-ATX W/4 PWM FANS PC CASE (Black)   | [VillMan](https://villman.com/Product-Detail/montech-_air-903-max-)    | 4299PHP         | E-ATX Mid-Tower                        |
 | Case Fans       | Included   | [VillMan](https://villman.com/Product-Detail/montech-_air-903-max-)    | ...         | ...                        |
-| **Total**       |       |                    | **61488 Php** | Within budget                        |
+| **Total**       |       |                    | **59,484 Php** | Within budget                        |
 
 ---
 
