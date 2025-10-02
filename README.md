@@ -18,7 +18,7 @@ This AMD based rig was made with the intention to perform well within a ₱60,00
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: https://pcpartpicker.com/list/W3c2PJ
+PCPartPicker Permalink: https://pcpartpicker.com/list/yscZpK
 
 ### Summary Table 
 | Component       |                                 Model                                          | Price (USD/Php)     |                       Notes                              |
