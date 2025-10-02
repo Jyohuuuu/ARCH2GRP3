@@ -1,11 +1,11 @@
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 3
 
 **Course**: CSARCH2  
 **Section**: S18 
 **Group Members**:  
-- Briones, Julian Johan, V.  
-- Rivera, Paolo Eugene, M.
-- Name 3  
+- Briones, Julian Johan V.  
+- Rivera, Paolo Eugene M.
+- Helbling, John Patrick P.  
 - Name 4  
 - Name 5  
 
@@ -23,17 +23,17 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/yscZpK
 ### Summary Table 
 | Component       |                                 Model                                          | Price (USD/Php)     |                       Notes                              |
 |-----------------|--------------------------------------------------------------------------------|---------------------|----------------------------------------------------------|
-| CPU             | AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor                                     | 171.00USD/9939.03PHP   | Unlocked for overclocking, AM4 w/ 12 threads & 6 cores   |
-| CPU Cooler      | ID Cooling FX360 INF ARGB 360mm Water Cooler                                   | 79.98USD/4648.76PHP    | Compatible with AM4 sockets                              |
-| Motherboard     | MSI PRO B550M-VC WIFI Micro ATX AM4 Motherboard                                | 119.99USD/6974.30PHP  | AM4 motherboard with mATX form factor                    |
-| RAM             | G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory                      | 104.99USD/6,099.29PHP   | DDR4 Ram, 2x16GB                                         |
-| Storage 1       | Samsung 990 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive               | 89.99USD/5230.49PHP| 1TB SSD that requires an NVME M.2 Slot                   |
+| CPU             | AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor                                     | 171.00 USD / 9,939.03 Php   | Unlocked for overclocking, AM4 w/ 12 threads & 6 cores   |
+| CPU Cooler      | ID Cooling FX360 INF ARGB 360mm Water Cooler                                   | 79.98 USD / 4,648.76 Php    | Compatible with AM4 sockets                              |
+| Motherboard     | MSI PRO B550M-VC WIFI Micro ATX AM4 Motherboard                                | 119.99 USD / 6,974.30 Php  | AM4 motherboard with mATX form factor                    |
+| RAM             | G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory                      | 104.99 USD / 6,099.29 Php   | DDR4 Ram, 2x16GB                                         |
+| Storage 1       | Samsung 990 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive               | 89.99 USD / 5,230.49 Php| 1TB SSD that requires an NVME M.2 Slot                   |
 | Storage 2       | ...                                                                            | ...                 | ...                                                      |
-| Graphics Card   | Sapphire PULSE Radeon RX 9060 XT 16 GB Video Card                              | 379.99USD/22086.16PHP  | 16GB VRAM that requires a PCIE x16 slot                  |
-| Power Supply    | Gigabyte P650G 650 W 80+ Gold Certified ATX Power Supply                       | 116.56USD/6774.82PHP   | 650W 80+ Gold                                            |
-| Case            | Montech AIR 903 MAX ATX Mid Tower Case                                         | 75.98USD/4416.34PHP    | Supports mATX motherboards and ATX PSUs                  |
-| Case Fans       | Included                                                                       | ...                 | ...                                                      |
-| **Total**       |                                                                                | 1,018.16USD/59,173.49PHP | ...                                                      |
+| Graphics Card   | Sapphire PULSE Radeon RX 9060 XT 16 GB Video Card                              | 379.99 USD / 22,086.16 Php  | 16GB VRAM that requires a PCIE x16 slot                  |
+| Power Supply    | Gigabyte P650G 650 W 80+ Gold Certified ATX Power Supply                       | 116.56 USD / 6,774.82 Php   | 650W 80+ Gold                                            |
+| Case            | Montech AIR 903 MAX ATX Mid Tower Case                                         | 75.98 USD / 4,416.34 Php    | Supports mATX motherboards and ATX PSUs                  |
+| Case Fans       | Included with Case                                                             | ...                 | ...                                                      |
+| **Total**       |                                                                                | 1,018.16 USD / 59,173.49 Php | ...                                                      |
 
 ---
 
@@ -44,16 +44,16 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1m75P71RFW0pBwHm
 ### Local Build Table
 | Component       |             Model          |                                         Vendor & Link                                       | Price (Php) | Compatibility Notes                  |
 |-----------------|----------------------------|---------------------------------------------------------------------------------------------|-------------|--------------------------------------|
-| CPU             | AMD Ryzen™ 5 5600X         | [PC Express](https://pcx.com.ph/products/amd-ryzen-5-5600x-3-7ghz-processor)                | 7450PHP     | AM4 Socket compatible with the B550M-VC |
-| CPU Cooler      | ID Cooling FX360 INF ARGB  | [dynaquestpc](https://dynaquestpc.com/products/id-cooling-fx360-inf-argb-360mm-water-cooler)| 3790PHP     | Compatible with AM4 cpu sockets         |
-| Motherboard     | MSI PRO B550M-VC WIFI      | [PC Express](https://pcx.com.ph/products/msi-b550m-a-pro-micro-atx-motherboard?)            | 4600PHP     | Supports DDR4 RAM, matches form factor of case                  |
-| RAM             |G.Skill Ripjaws V 32GB Dual DDR4 3600MHz CL18 F4-3600C18D-32GVK | [dynaquestpc](https://dynaquestpc.com/collections/memory/products/gskill-ripjaws-v-32gb-2x16gb-ddr4-3600-f4-3600c18d-32gvk)| 4,995.00PHP   | DDR4 32 GB (2x16GB)                |
-| Storage 1 (SSD) | SAMSUNG 1TB 990 PRO NVME M.2 Solid State Drive | [PC Express](https://pcx.com.ph/products/samsung-1tb-990-pro-nvme-m-2-solid-state-drive?_pos=1&_sid=02b347aca&_ss=r) | 5550PHP         | NVMe M.2 slot supported by motherboard            |
+| CPU             | AMD Ryzen™ 5 5600X         | [PC Express](https://pcx.com.ph/products/amd-ryzen-5-5600x-3-7ghz-processor)                | 7,450 Php     | AM4 Socket compatible with the B550M-VC |
+| CPU Cooler      | ID Cooling FX360 INF ARGB  | [dynaquestpc](https://dynaquestpc.com/products/id-cooling-fx360-inf-argb-360mm-water-cooler)| 3,790 Php     | Compatible with AM4 cpu sockets         |
+| Motherboard     | MSI PRO B550M-VC WIFI      | [PC Express](https://pcx.com.ph/products/msi-b550m-a-pro-micro-atx-motherboard?)            | 4,600 Php     | Supports DDR4 RAM, matches form factor of case                  |
+| RAM             |G.Skill Ripjaws V 32GB Dual DDR4 3600MHz CL18 F4-3600C18D-32GVK | [dynaquestpc](https://dynaquestpc.com/collections/memory/products/gskill-ripjaws-v-32gb-2x16gb-ddr4-3600-f4-3600c18d-32gvk)| 4,995 Php   | DDR4 32 GB (2x16GB)                |
+| Storage 1 (SSD) | SAMSUNG 1TB 990 PRO NVME M.2 Solid State Drive | [PC Express](https://pcx.com.ph/products/samsung-1tb-990-pro-nvme-m-2-solid-state-drive?_pos=1&_sid=02b347aca&_ss=r) | 5,550 Php         | NVMe M.2 slot supported by motherboard            |
 | Storage 2 (HDD) | ...   | ...   | ...         |                   |
-| GPU             | SAPPHIRE AMD Radeon™ RX 9060 XT PULSE GAMING OC 16GB GDDR6 128-bit Graphics Card   | [PC Express](https://pcx.com.ph/products/sapphire-amd-radeon-rx-9060-xt-pulse-gaming-oc-16gb-gddr6-128-bit-graphics-card?_pos=1&_sid=320bf0059&_ss=r&_fid=9fe96a7b9)    | 25300PHP         | PCIe x16 socket compatible with motherboard  |
-| PSU             | GIGABYTE 650W GP-P650G 80+ Gold Power Supply   | [PC Express](https://pcx.com.ph/products/gigabyte-650w-gp-p650g-80-gold-power-supply?_pos=1&_sid=ec9711472&_ss=r)   | 3500PHP         | 650W, 80+ Gold compatible with PSU slot of case                     |
-| Case            | MONTECH AIR 903 MAX E-ATX W/4 PWM FANS PC CASE (Black)   | [VillMan](https://villman.com/Product-Detail/montech-_air-903-max-)    | 4299PHP         | E-ATX Mid-Tower                        |
-| Case Fans       | Included   | [VillMan](https://villman.com/Product-Detail/montech-_air-903-max-)    | ...         | ...                        |
+| GPU             | SAPPHIRE AMD Radeon™ RX 9060 XT PULSE GAMING OC 16GB GDDR6 128-bit Graphics Card   | [PC Express](https://pcx.com.ph/products/sapphire-amd-radeon-rx-9060-xt-pulse-gaming-oc-16gb-gddr6-128-bit-graphics-card?_pos=1&_sid=320bf0059&_ss=r&_fid=9fe96a7b9)    | 25,300 Php         | PCIe x16 socket compatible with motherboard  |
+| PSU             | GIGABYTE 650W GP-P650G 80+ Gold Power Supply   | [PC Express](https://pcx.com.ph/products/gigabyte-650w-gp-p650g-80-gold-power-supply?_pos=1&_sid=ec9711472&_ss=r)   | 3,500 Php         | 650W, 80+ Gold compatible with PSU slot of case                     |
+| Case            | MONTECH AIR 903 MAX E-ATX W/4 PWM FANS PC CASE (Black)   | [VillMan](https://villman.com/Product-Detail/montech-_air-903-max-)    | 4,299 Php         | E-ATX Mid-Tower                        |
+| Case Fans       | Included with Case  | [VillMan](https://villman.com/Product-Detail/montech-_air-903-max-)    | ...         | ...                        |
 | **Total**       |       |                    | **59,484 Php** | Within budget                        |
 
 ---
@@ -74,7 +74,7 @@ Example:
 
 ## 5. Budget Analysis
 - **Budget Limit**: ₱60,000 (+-5%)  
-- **Final Total**: 61488,000  
+- **Final Total**: ₱59,484  
 - ✅ Within budget
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
  - **No HDD** - The build has no hard disk drive. While this trades off some extra storage, 1TB should be enough for most purposes. Furthermore, the costs that would've went to buying an HDD was able to be dedicated for better performing parts such as the GPU.
