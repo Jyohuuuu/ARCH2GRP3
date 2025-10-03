@@ -6,8 +6,8 @@
 - Briones, Julian Johan V.  
 - Rivera, Paolo Eugene M.
 - Helbling, John Patrick P.  
-- Name 4  
-- Name 5  
+- Julian, Jedidiah Kyle M. 
+- Foo, James T.
 
 ---
 
