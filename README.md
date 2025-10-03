@@ -91,7 +91,8 @@ Reflections on:
   - International prices were higher than local prices for most components. Only the SSD and Graphics Card were more expensive locally than international prices, being ₱319.5 and ₱3,213.84 more expensive respectfully. So for the most part, local vendors offered cheaper prices, especially for major parts like the CPU, motherboard, and PSU costing at least ₱2000 less. This price advantage allowed us to build a more powerful system while still staying within our ₱60,000 budget.  
 - Challenges in finding stock or cheaper equivalents
   - One of the main considerations was finding a cost-effective GPU, as performance did not always directly correlate with price. Some lower-priced models offered equal or even better performance than more expensive ones. Aside from that, there weren’t any major challenges in sourcing the parts since all components were readily available from well-known local PC vendors such as PC Express, DynaQuest, and VillMan. The parts were easy to search for, and listings were regularly updated. This convenience made the building process smoother and faster, allowing the group to focus more on optimization and budget balance rather than availability issues.
-- What the group learned about PC components and system design  
+- What the group learned about PC components and system design
+   - Creating this PC, the group discovered that not all components were created equal. Some parts had better performance compared to others, but as a result were more expensive. For other parts, the opposite was true. The group had to be more aware of the tradeoffs that were being made with each part and discuss it in depth to justify these trade offs. Furthermore, the group learned that these parts needed to be compatible in order to work properly. Aspects such as ensuring the motherboard could slot the CPU and GPU were integral to creating this build.
 
 ---
 ## 7. Video pitch
