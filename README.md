@@ -98,7 +98,21 @@ Reflections on:
 - https://youtu.be/T5fCXkSwRfo
   
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted  
+- PCX. (n.d.). AMD Ryzen 5 5600X 3.7GHz processor. Retrieved from https://pcx.com.ph/products/amd-ryzen-5-5600x-3-7ghz-processor
 
+- DynaQuestPC. (n.d.). ID-Cooling FX360 INF ARGB 360mm water cooler. Retrieved from https://dynaquestpc.com/products/id-cooling-fx360-inf-argb-360mm-water-cooler
+
+- PCX. (n.d.). MSI B550M-A PRO Micro ATX motherboard. Retrieved from https://pcx.com.ph/products/msi-b550m-a-pro-micro-atx-motherboard
+?
+
+- DynaQuestPC. (n.d.). G.Skill Ripjaws V 32GB (2×16GB) DDR4-3600 (F4-3600C18D-32GVK). Retrieved from https://dynaquestpc.com/collections/memory/products/gskill-ripjaws-v-32gb-2x16gb-ddr4-3600-f4-3600c18d-32gvk
+
+- PCX. (n.d.). Samsung 1TB 990 Pro NVMe M.2 solid state drive. Retrieved from https://pcx.com.ph/products/samsung-1tb-990-pro-nvme-m-2-solid-state-drive?_pos=1&_sid=02b347aca&_ss=r
+
+- PCX. (n.d.). Sapphire AMD Radeon RX 9060 XT Pulse Gaming OC 16 GB GDDR6 graphics card. Retrieved from https://pcx.com.ph/products/sapphire-amd-radeon-rx-9060-xt-pulse-gaming-oc-16gb-gddr6-128-bit-graphics-card?_pos=1&_sid=320bf0059&_ss=r&_fid=9fe96a7b9
+
+- PCX. (n.d.). Gigabyte 650W GP-P650G 80+ Gold power supply. Retrieved from https://pcx.com.ph/products/gigabyte-650w-gp-p650g-80-gold-power-supply?_pos=1&_sid=ec9711472&_ss=r
+
+- VillMan. (n.d.). Montech AIR 903 Max. Retrieved from https://villman.com/Product-Detail/montech-_air-903-max-
+
+- PCPartPicker. (n.d.). PCPartPicker list yscZpK. Retrieved from https://pcpartpicker.com/list/yscZpK
