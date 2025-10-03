@@ -95,8 +95,8 @@ Reflections on:
 
 ---
 ## 7. Video pitch
-- Your video link here  
-
+- https://youtu.be/T5fCXkSwRfo
+  
 ## 8. References
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
